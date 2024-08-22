@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : THARUN SRIDHAR 
-Reg NO : 212223230230
-Date of experiment : 22-08-2024
+
+## Name : THARUN SRIDHAR 
+## Reg NO : 212223230230
+## Date of experiment : 22-08-2024
 
 
 
