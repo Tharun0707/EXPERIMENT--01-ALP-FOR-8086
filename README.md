@@ -89,7 +89,9 @@ ret
 ```
 
 ## Output  
- ![image](https://github.com/user-attachments/assets/e19ee665-c30f-4756-8649-e657903a1826)
+
+ ![Screenshot (8)](https://github.com/user-attachments/assets/e8a6dc56-9a84-4b83-bef8-95b604a692ff)
+
 
 ## Subtraction of 8 bit numbers  ALP 
 ```
@@ -102,7 +104,8 @@ ret
 ```
  
 ## Output  
-![Screenshot (1)](https://github.com/user-attachments/assets/65abf027-1c75-4b5d-887d-eacb8ace28ad)
+![Screenshot (9)](https://github.com/user-attachments/assets/2f2a1bc0-3e5b-4721-a163-28f3775973ba)
+
 
 ## Multiplication alp 
 ```
@@ -114,8 +117,9 @@ MOV [6063h],bl;
 ret
 ```
 
- ## Output  
-![Screenshot (2)](https://github.com/user-attachments/assets/4cf88d41-c3d4-430d-9705-1de74a881efa)
+## Output  
+![Screenshot (10)](https://github.com/user-attachments/assets/64329790-09bd-4fa0-9a10-df89fd64dacb)
+
 
 
 ## Division alp 
@@ -129,7 +133,7 @@ ret
 ```
 
 ## Output  
-![Screenshot (3)](https://github.com/user-attachments/assets/00317f7a-23c4-4e9c-ac2d-276f87606525)
+![Screenshot (11)](https://github.com/user-attachments/assets/cb48f115-e285-4174-9325-ce67e4797089)
 
 ## PROGRAMS FOR LOGICAL OPERATION 
 
@@ -144,7 +148,7 @@ ret
 ```
 
 ## Output
-![Screenshot (4)](https://github.com/user-attachments/assets/d61c2c10-56a3-4018-b289-41c4d9301f61)
+![Screenshot (12)](https://github.com/user-attachments/assets/b54eaa55-46e7-41db-9654-9eec591e43b6)
 
 ## AND Operation 
 ```
@@ -157,8 +161,7 @@ ret
 ```
 
 ## Output
-
-![Screenshot (5)](https://github.com/user-attachments/assets/b6fcdffd-49f1-414b-b2f3-583012afd6fd)
+![Screenshot (13)](https://github.com/user-attachments/assets/975e2ae0-4342-4710-85dd-98b2453d3526)
 
 ## XOR Operation
 ```
@@ -171,8 +174,7 @@ ret
 ```
 
 ## Output
-
-![Screenshot (6)](https://github.com/user-attachments/assets/02c96e6a-246d-4d6a-ac33-ba843a226434)
+![Screenshot (14)](https://github.com/user-attachments/assets/00f5b2db-d406-4543-9efb-0257d421d7a9)
 
 ## NOT Operation 
 ```
@@ -184,8 +186,7 @@ ret
 ```
 
 ## Output
-
-![Screenshot (7)](https://github.com/user-attachments/assets/dafe65be-699c-4caa-af6f-45ba04528ff8)
+![Screenshot (15)](https://github.com/user-attachments/assets/5c66612c-fec9-455a-91cf-4beac2c02456)
 
 
 ## Result :
